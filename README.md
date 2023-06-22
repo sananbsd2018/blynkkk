@@ -1,2 +1,2 @@
-Installing Blynk Server on Ubuntu Cloud Server [Digital Ocean VPS]
-If you are planning to install Blynk Server on any ubuntu server, then here is a step by step instruction on how to do that.
+Installing Java on Ubuntu Server (Requied for Blynk Server)
+Blynk server needs Java to work. So we need to install Java JDK by executing below commands on Ubuntu server.
